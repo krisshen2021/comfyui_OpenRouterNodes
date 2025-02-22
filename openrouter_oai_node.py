@@ -174,7 +174,7 @@ class OpenRouterOAINode_Infer:
                 "api_key": (
                     "STRING",
                     {
-                        "default": "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"
+                        "default": "sk-or-v1-4985"
                     },
                 ),  # OpenRouter API Key
                 "model": (
