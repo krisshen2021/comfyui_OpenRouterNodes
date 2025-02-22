@@ -1,0 +1,29 @@
+SD:
+  Positive_Template: 
+    "[Subject], [Description of Subject], [Art Style], [Artist Attribution], [Additional Details], [Lighting], [Composition], [Quality Enhancers]"
+  Positive_Prompt:
+    "Young woman, long flowing hair, piercing blue eyes, wearing a Victorian dress, portrait painting, art by John William Waterhouse, soft focus, natural lighting, close-up, 8k, elegant, realistic"
+  Negative_Template:
+    "[Elements to Avoid], [Unwanted Art Styles], [Negative Attributes], [Unwanted Details], [Poor Quality Indicators]"
+  Negative_Prompt:
+    "deformed, disfigured, mutated, extra limbs, poorly drawn hands, blurry, bad anatomy, bad proportions, cloned face, gross proportions, low quality, worst quality, low resolution, jpeg artifacts, grainy, oversaturated, unrealistic lighting, unnatural colors"
+
+Pony:
+  Positive_Template:
+    "[Score Keyword], [Character Description], [Character Pose/Action], [Environment/Background], [Art Style/Visual Qualities], [Artist Attribution (Optional & Selective)], [Additional Details], [Technical/Quality Keywords]"
+  Positive_Prompt:
+    "score_9, score_8_up, score_8, score_7_up, Fashionable young woman, mid-twenties, long auburn hair, striking green eyes, wearing a designer black cocktail dress with intricate lace details, elegant high heels, posing on a rooftop overlooking a city at night, neon lights reflecting, high fashion, elegant, glamorous, sophisticated, best quality, masterpiece, 8k, intricate details, dramatic lighting"
+  Negative_Template:
+    "[Unwanted Score Keywords], [Negative Character Traits], [Unwanted Poses/Actions], [Negative Environment/Background Elements], [Unwanted Art Styles/Visual Qualities], [Negative Technical/Quality Keywords]"
+  Negative_Prompt:
+    "score_5, score_6, score_7, deformed, grotesque, scary, horror, dark, gloomy, cluttered background, messy, chaotic, low quality, low resolution, blurry, distorted, unrealistic proportions, bad anatomy, extra limbs, missing limbs, asymmetrical, poorly drawn face, cross-eyed, mutated, oversaturated, undersaturated, noisy, pixelated, artifacts, watermark, text, logo, censored, low detail, flat colors, unrealistic lighting, harsh shadows, bad composition, amateurish, cartoonish, childish"
+
+Flux:
+  Positive_Template:
+    "[Subject] [Action/Verb] [Prepositional Phrase] [Environment/Setting], [Medium/Art Style], [Lighting/Color], [Mood/Emotion], [Additional Details]"
+  Positive_Prompt:
+    "A stylish fashion girl leaning casually against a brick wall on a bustling city sidewalk, urban street photography, high fashion outfit with a chic leather jacket and ripped jeans, confident pose, natural lighting with soft shadows, vibrant city atmosphere, modern and edgy, detailed facial features, with a backdrop of passing pedestrians and blurred city traffic"
+  Negative_Template:
+    "[Unwanted Subject], [Negative Actions/Verbs], [Unwanted Prepositional Phrases/Environments], [Negative Medium/Art Styles], [Unwanted Lighting/Colors], [Negative Mood/Emotions], [Unwanted Additional Details]"
+  Negative_Prompt:
+    "distorted, grotesque, horror, dark, gloomy, cluttered, messy, chaotic, low quality, low resolution, blurry, unrealistic, bad anatomy, deformed, mutated, extra limbs, missing limbs, asymmetrical, poorly drawn, cross-eyed, oversaturated, undersaturated, noisy, pixelated, artifacts, watermark, text, logo, censored, flat colors, harsh lighting, unrealistic shadows, bad composition, amateurish, cartoonish, childish, violent, aggressive, depressing, sad, melancholic, lonely, isolated, abandoned, dirty, polluted, industrial, urban decay, abstract, surreal, psychedelic, monochromatic, grayscale, sepia, overexposed, underexposed, flickering, strobing, jarring, disorienting"
